@@ -6,24 +6,17 @@ I created a **powerful, unique, and dynamic music player** that is fully customi
 
 This **Music App** includes all essential music player features, allowing you to play audio, switch background videos for an immersive experience, and display a song avatar.  
 Watch the full tutorial to see how this project was built **from scratch**—it will help you a lot! 🚀  
-
----
-
-### **🔴 YouTube Tutorial Video**  
-[Watch Now](https://youtu.be/dALOX3sIfsk)  
-
-### **🔵 Live Project URL**  
-[Try It Here](https://t-musicplayer.netlify.app/)  
+ 
 
 ### **🟣 Join My Discord Server**  
 Have questions about this project? Join my **new Discord server** for discussions and support!  
-[Join Now](https://discord.gg/G5zDJbVpMx)  
+[Join Now](https://discord.com/channels/1340255497202171905/1340255497202171908)  
 
 ---
 
 ## **📸 Screenshot**  
 
-![App Screenshot](https://i.ibb.co/MSGBwTR/Thumbnail-10-K.png)  
+![App Screenshot](hhttps://ibb.co/NnSqfnMR)  
 
 ---
 
