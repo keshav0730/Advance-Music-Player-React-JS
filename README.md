@@ -14,12 +14,6 @@ Have questions about this project? Join my **new Discord server** for discussion
 
 ---
 
-## **📸 Screenshot**  
-
-![App Screenshot](hhttps://ibb.co/NnSqfnMR)  
-
----
-
 ## **🚀 About Me**  
 **BitCave** — Passionate **Software Developer** creating unique projects and making **web development** learning easier for beginners.  
 I aim to **fast-track** your development career with **practical projects and real-world applications.** Hope you love my creativity!  
